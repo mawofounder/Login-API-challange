@@ -1,0 +1,30 @@
+Login API
+
+​ 09.04.2023
+
+​ mawo, masterDroid
+
+​
+
+Description:
+This challenge is an very easy web challange about a Login Page,
+where the Users need to inspect the source Code and the web Traffic.
+
+Objective
+Get the flag with Reading Data from source and network
+
+Difficulty:
+very easy
+
+Flag:
+HTB{y0u_kn3w_ab0ut_a9is}
+
+Challenge:
+(folder in repo = Files)
+
+Solver:
+Find the Username in source Code (root)
+Try To Login with a random Password and inspect Network traffic
+Check the right Password
+Enter it and login
+Enjoy the flag
